@@ -1,1 +1,3 @@
 FamilyCloudSymf
+
+Composer install
